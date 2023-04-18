@@ -1,12 +1,9 @@
-import { RouterPrincipal } from "./router/RouterPrincipal"
+import { RouterPrincipal } from "./router/RouterPrincipal";
 
-export const App=()=> {
-
+export const App = () => {
   return (
     <>
-      <RouterPrincipal/>
+      <RouterPrincipal />
     </>
-  )
-}
-
-
+  );
+};
