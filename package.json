@@ -8,8 +8,8 @@
     "build": "vite build",
     "lint": "eslint . --fix",
     "preview": "vite preview",
-    "prepare": "husky install",
-    "prettier": "prettier . --write"
+    "prettier": "prettier . --write",
+    "prepare": "husky install"
   },
   "dependencies": {
     "react": "^18.2.0",
